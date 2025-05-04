@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lighting-solutions-oman.alwejhagroup.com/sitemap.xml
