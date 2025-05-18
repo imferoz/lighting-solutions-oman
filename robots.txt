@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://lighting-solutions-oman.alwejhagroup.com/sitemap.xml
+Disallow: /temp/  # Block any temporary folders
+Sitemap: http://lighting-solutions-oman.alwejhagroup.com/sitemap.xml
